@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" lang="de">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<link href="/public/page.css?v3" rel="stylesheet" />
+		<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+		<script type="text/javascript" src="/public/js/jquery.js"></script>
+		<script type="text/javascript" src="/public/js/heartcode-canvas-loader.js"></script>
+		<script type="text/javascript" src="/public/js/page.js"></script>
+		<title>Überprüfung - Burning Series: Serien online sehen</title>
+		<script>
+			var setup = function () {
+				grecaptcha.render ('captcha', {
+					'sitekey': '6LeiZSYUAAAAAI3JZXrRnrsBzAdrZ40PmD57v_fs',
+					'size': 'invisible',					'callback': passby
+				});
+
+				grecaptcha.execute ();			};
+			
+			var passby = function (token) {
+				$('form#gateway > input[name="token"]').val (token);
+				$('form#gateway').submit ();
+			};
+		</script>
+		<!--[if lt IE 9]>
+			<script type="text/javascript">var e = 'abbr|article|aside|audio|canvas|details|figcaption|figure|footer|header|hgroup|mark|meter|nav|output|progress|section|summary|time|video'.split('|');
+			for (var i = e.length; i--;)document.createElement(e[i]);</script>
+		<![endif]-->
+	</head>
+	<body class="exceeded">
+		<form id="gateway" method="GET">
+			<input type="hidden" name="token" />
+		</form>
+		<section>
+			<h2>Deine Anfrage wird überprüft &hellip;</h2>
+			<p>Falls nötig, löse bitte das Captcha, um die Serie weiterschauen zu können.</p>
+						<div class="loader">
+				<div class="cube cube1"></div>
+				<div class="cube cube2"></div>
+				<div class="cube cube3"></div>
+				<div class="cube cube4"></div>
+				<div class="cube cube5"></div>
+				<div class="cube cube6"></div>
+				<div class="cube cube7"></div>
+				<div class="cube cube8"></div>
+				<div class="cube cube9"></div>
+			</div>
+						<div id="captcha"></div>
+		</section>
+		<script src="https://www.google.com/recaptcha/api.js?onload=setup&render=explicit" async defer></script>
+	</body>
+</html>

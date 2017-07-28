@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" lang="de">
+	<head>
+		<meta charset="utf-8" />
+		<base href="//bs.to/" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="description" content="Schaue auf Burning Series mehr als 3000 Serien wie Die Simpsons, The Big Bang Theory und viele mehr gratis." />
+		<meta name="keywords" content="bs, bs.to, Burning Series, Serien, Streaming, Netflix, Die Simpsons, The Big Bang Theory, Two and a Half Men, How I Met Your Mother" />
+		<meta name="robots" content="index, follow" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Game of Thrones (2) - Burning Series: Serien online sehen" />
+		<meta property="og:url" content="https://bs.to/serie/Game-of-Thrones/2/" />
+		<meta property="og:image" content="https://bs.to/opengraph.jpg" />
+		<meta property="og:description" content="Schaue auf Burning Series mehr als 3000 Serien wie Die Simpsons, The Big Bang Theory und viele mehr gratis." />
+		<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+		<link href="/public/page.css?v3" rel="stylesheet" />
+		<script type="text/javascript" src="/public/js/jquery.js"></script>
+		<script type="text/javascript" src="/public/js/heartcode-canvas-loader.js"></script>
+		<script type="text/javascript" src="/public/js/page.js"></script>
+		<script type="text/javascript" src="/public/js/sly.js"></script>				<title>Game of Thrones (2) - Burning Series: Serien online sehen</title>
+		<!--[if lt IE 9]>
+			<script type="text/javascript">var e = 'abbr|article|aside|audio|canvas|details|figcaption|figure|footer|header|hgroup|mark|meter|nav|output|progress|section|summary|time|video'.split('|');
+			for (var i = e.length; i--;)document.createElement(e[i]);</script>
+		<![endif]-->
+	</head>
+	<body>
+		<div id="fb-root"></div>
+		<div id="root">
+			<header>
+				<h1>
+					<a href="home">Burning Series - Simpsons und weitere Serien kostenlos online sehen</a>
+					<div class="fb-like" data-href="https://bs.to/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+				</h1>
+									<form id="login" action="serie/Game-of-Thrones/2" method="post">
+						<input type="text" name="login[user]" placeholder="Username" />
+						<input type="password" name="login[pass]" placeholder="Passwort" />
+						<label><input type="checkbox" name="login[remember]" value="true" />&nbsp;Angemeldet bleiben</label>
+						<input type="submit" value="Login" />
+						<a href="registrierung">Registrieren</a>
+					</form>
+							</header>
+			<nav>
+				<ul>
+					<li><a href="home">Home</a></li>
+					<li id="other-series-nav">
+						<a href="andere-serien">Alle Serien</a>
+						<ul>
+															<li><a href="serie/Die-Simpsons">Die Simpsons</a></li>
+															<li><a href="serie/Family-Guy">Family Guy</a></li>
+															<li><a href="serie/Game-of-Thrones">Game of Thrones</a></li>
+															<li><a href="serie/How-I-Met-Your-Mother">How I Met Your Mother</a></li>
+															<li><a href="serie/South-Park">South Park</a></li>
+															<li><a href="serie/The-Walking-Dead">The Walking Dead</a></li>
+															<li><a href="serie/Two-and-a-Half-Men">Two and a Half Men</a></li>
+														<li><a href="andere-serien"><strong>Mehr Serien</strong></a></li>
+							<li><a href="vorgeschlagene-serien">Serienvorschläge</a></li>
+						</ul>
+					</li>
+					<li><a href="search">Suche</a></li>
+					<li>
+						<a href="random">Zufall</a>
+						<ul>
+							<li><a href="random/edit">Zufall einstellen</a></li>
+						</ul>
+					</li>
+					<li><a href="https://board.bs.to" target="board">Forum</a></li>
+					<li>
+						<a href="serie/Game-of-Thrones/2#">Mehr</a>
+						<ul>
+							<li><a href="https://cine.to" target="movies">Filme</a></li>
+							<li><a href="app">Android App</a></li>
+							<li><a href="https://board.bs.to/index.php?/forum/30-serienkalender/" target="calendar">Serienkalender</a></li>
+							<li><a href="hilfe">Hilfe</a></li>
+							<li><a href="team">Team</a></li>
+							<li><a href="regeln">Regeln</a></li>
+							<li><a href="statistics">Statistiken</a></li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+			<section class="serie">
+																	<div class="top">
+	<div id="sp_left">
+		<h2>
+			Game of Thrones
+									<small>Staffel 2</small>
+		</h2>
+		<div>
+			<p class="justify">Die Serie &quot;Game of Thrones&quot; basiert auf der Fantasy-Buchreihe „Das Lied von Eis und Feuer“ von George R.R. Martin. Die erste Staffel entspricht dem ersten Buch der Reihe und spielt im mittelalterlichen Westeros. König Robert Baratheon ist der Herrscher über die sieben Königslande und sitzt auf dem eisernen Thron. Doch sein Reich befindet sich in Aufruhr. Sein Freund und Vertrauter Jon Arryn - die Hand des Königs - ist tot und es sieht nach Mord aus. Robert holt sich seinen besten Freund Lord Eddard „Ned“ Stark (Sean Bean) an den Königshof. Er ist der Herrscher der Festung Winterfell sowie Wächter des Nordens und wird nur widerwillig an den intrigenreichen Hof in Königsmund gerufen. Zeitgleich beginnt Daenerys (Emilia Clarke) aus dem uralten Haus Targaryen sich dem Eisernen Thron, der ihr rechtmäßig zusteht, Stück für Stück zu nähern. Das Spiel um den Eisernen Thron beginnt...</p>
+		</div>
+		<div class="infos">
+			<div>
+				<span>Genres</span>
+				<p>
+																<span style="font-weight: bold;">Fantasy</span>
+											<span>Drama</span>
+									</p>
+			</div>
+			<div>
+				<span>Produktionsjahre</span>
+				<p>
+										<em>2011 - <i>Unbekannt</i></em>
+				</p>
+			</div>
+			<div>
+				<span>Hauptdarsteller</span>
+				<p>
+																<span>Aidan Gillen,</span>
+																	<span>Alfie Allen,</span>
+																	<span>Carice van Houten,</span>
+																	<span style="display: none;">Charles Dance,</span>
+																	<span style="display: none;">Clive Mantle,</span>
+																	<span style="display: none;">Conleth Hill,</span>
+																	<span style="display: none;">Donald Sumpter,</span>
+																	<span style="display: none;">Emilia Clarke,</span>
+																	<span style="display: none;">Esmé Bianco,</span>
+																	<span style="display: none;">Eugene Simon,</span>
+																	<span style="display: none;">Finn Jones,</span>
+																	<span style="display: none;">Gemma Whelan,</span>
+																	<span style="display: none;">Gethin Anthony,</span>
+																	<span style="display: none;">Gwendoline Christie,</span>
+																	<span style="display: none;">Harry Lloyd,</span>
+																	<span style="display: none;">Iain Glen,</span>
+																	<span style="display: none;">Ian Gelder,</span>
+																	<span style="display: none;">Jack Gleeson,</span>
+																	<span style="display: none;">James Cosmo,</span>
+																	<span style="display: none;">Jason Momoa,</span>
+																	<span style="display: none;">Jerome Flynn,</span>
+																	<span style="display: none;">John Bradley-West,</span>
+																	<span style="display: none;">Joseph Mawle,</span>
+																	<span style="display: none;">Julian Glover,</span>
+																	<span style="display: none;">Kate Dickie,</span>
+																	<span style="display: none;">Kit Harington,</span>
+																	<span style="display: none;">Kristian Nairn,</span>
+																	<span style="display: none;">Lena Headey,</span>
+																	<span style="display: none;">Peter Dinklage</span>
+						<a class="showup" href="#">und 26 weitere</a>									</p>
+			</div>
+			<div>
+				<span>Produzenten</span>
+				<p>
+																<span>D. B. Weiss,</span>
+																	<span>David Benioff</span>
+															</p>
+			</div>
+			<div>
+				<span>Regisseure</span>
+				<p>
+																<span>David Benioff</span>
+															</p>
+			</div>
+			<div>
+				<span>Autoren</span>
+				<p>
+																<span>D. B. Weiss,</span>
+																	<span>David Benioff</span>
+															</p>
+			</div>
+					</div>
+	</div>
+	<div id="sp_right">
+		<img src="/public/img/cover/220.jpg" alt="Cover" />		<a href="random/serie/Game-of-Thrones"><span class="icon arrow_refresh v-centered"></span>&nbsp;Zufällige Episode</a>
+			</div>
+</div>
+<script>(function () { series.init (2,  0); })();</script><div class="seasons full">
+	<strong>Staffeln</strong>
+	<div class="frame" id="seasons">
+		<ul class="clearfix">
+			<li class="special"><a href="serie/Game-of-Thrones/0">Specials</a></li>							<li><a href="serie/Game-of-Thrones/1">1</a></li>
+							<li><a href="serie/Game-of-Thrones/2">2</a></li>
+							<li><a href="serie/Game-of-Thrones/3">3</a></li>
+							<li><a href="serie/Game-of-Thrones/4">4</a></li>
+							<li><a href="serie/Game-of-Thrones/5">5</a></li>
+							<li><a href="serie/Game-of-Thrones/6">6</a></li>
+							<li><a href="serie/Game-of-Thrones/7">7</a></li>
+					</ul>
+	</div>
+	<div class="scrollbar">
+		<div class="handle">
+			<div class="mousearea"></div>
+		</div>
+	</div>
+</div>
+<table class="episodes">
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht" title="Der Norden vergisst nicht">1</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht" title="Der Norden vergisst nicht">
+					<strong>Der Norden vergisst nicht</strong>					<span lang="en"><i>The North Remembers</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/1-Der-Norden-vergisst-nicht/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht" title="Die Länder der Nacht">2</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht" title="Die Länder der Nacht">
+					<strong>Die Länder der Nacht</strong>					<span lang="en"><i>The Night Lands</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/2-Die-Laender-der-Nacht/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben" title="Was tot ist, kann niemals sterben">3</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben" title="Was tot ist, kann niemals sterben">
+					<strong>Was tot ist, kann niemals sterben</strong>					<span lang="en"><i>What Is Dead May Never Die</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/3-Was-tot-ist-kann-niemals-sterben/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen" title="Der Garten der Knochen">4</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen" title="Der Garten der Knochen">
+					<strong>Der Garten der Knochen</strong>					<span lang="en"><i>Garden of Bones</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/4-Der-Garten-der-Knochen/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal" title="Der Geist von Harrenhal">5</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal" title="Der Geist von Harrenhal">
+					<strong>Der Geist von Harrenhal</strong>					<span lang="en"><i>The Ghost Of Harrenhal</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/5-Der-Geist-von-Harrenhal/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter" title="Alte und neue Götter">6</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter" title="Alte und neue Götter">
+					<strong>Alte und neue Götter</strong>					<span lang="en"><i>The Old Gods And The New</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/6-Alte-und-neue-Goetter/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre" title="Ein Mann ohne Ehre">7</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre" title="Ein Mann ohne Ehre">
+					<strong>Ein Mann ohne Ehre</strong>					<span lang="en"><i>A Man Without Honor</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/7-Ein-Mann-ohne-Ehre/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell" title="Der Prinz von Winterfell">8</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell" title="Der Prinz von Winterfell">
+					<strong>Der Prinz von Winterfell</strong>					<span lang="en"><i>The Prince of Winterfell</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/8-Der-Prinz-von-Winterfell/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/9-Schwarzwasser" title="Schwarzwasser">9</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/9-Schwarzwasser" title="Schwarzwasser">
+					<strong>Schwarzwasser</strong>					<span lang="en"><i>Blackwater</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/9-Schwarzwasser/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/9-Schwarzwasser/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/9-Schwarzwasser/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/9-Schwarzwasser/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/9-Schwarzwasser/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/9-Schwarzwasser/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/9-Schwarzwasser/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/9-Schwarzwasser/Vidto">Vidto</a>
+							</td>
+		</tr>
+					<tr>
+			<td><a href="serie/Game-of-Thrones/2/10-Valar-Morghulis" title="Valar Morghulis">10</a></td>
+			<td>
+								<a href="serie/Game-of-Thrones/2/10-Valar-Morghulis" title="Valar Morghulis">
+					<strong>Valar Morghulis</strong>					<span lang="en"><i>Valar Morghulis</i></span>				</a>
+			</td>
+			<td class="nowrap">
+													<a class="icon Vivo" title="Vivo" href="serie/Game-of-Thrones/2/10-Valar-Morghulis/Vivo">Vivo</a>
+									<a class="icon OpenLoad" title="OpenLoad" href="serie/Game-of-Thrones/2/10-Valar-Morghulis/OpenLoad">OpenLoad</a>
+									<a class="icon Streamango" title="Streamango" href="serie/Game-of-Thrones/2/10-Valar-Morghulis/Streamango">Streamango</a>
+									<a class="icon AuroraVid" title="AuroraVid" href="serie/Game-of-Thrones/2/10-Valar-Morghulis/AuroraVid">AuroraVid</a>
+									<a class="icon FlashX" title="FlashX" href="serie/Game-of-Thrones/2/10-Valar-Morghulis/FlashX">FlashX</a>
+									<a class="icon OpenLoadHD" title="OpenLoadHD" href="serie/Game-of-Thrones/2/10-Valar-Morghulis/OpenLoadHD">OpenLoadHD</a>
+									<a class="icon TheVideo" title="TheVideo" href="serie/Game-of-Thrones/2/10-Valar-Morghulis/TheVideo">TheVideo</a>
+									<a class="icon Vidto" title="Vidto" href="serie/Game-of-Thrones/2/10-Valar-Morghulis/Vidto">Vidto</a>
+							</td>
+		</tr>
+	</table>
+							</section>
+			<div style="clear: both;"></div>
+							<script type="text/javascript">var _0xf9b4=["\x68\x74\x74\x70\x3A\x2F\x2F\x61\x64\x72\x75\x6E\x6E\x72\x2E\x63\x6F\x6D\x2F\x3F\x70\x6C\x61\x63\x65\x6D\x65\x6E\x74\x3D\x34\x30\x33\x35\x34\x31\x26\x72\x65\x64\x69\x72\x65\x63\x74","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x62\x75\x7A\x7A\x61\x64\x65\x78\x63\x68\x61\x6E\x67\x65\x2E\x63\x6F\x6D\x2F\x61\x2F\x64\x69\x73\x70\x6C\x61\x79\x2E\x70\x68\x70\x3F\x72\x3D\x31\x34\x34\x32\x34\x31\x31","\x72\x65\x61\x64\x79\x53\x74\x61\x74\x65","\x63\x6F\x6D\x70\x6C\x65\x74\x65","\x62\x69\x6E\x64","\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x75\x6E\x64\x65\x66\x69\x6E\x65\x64","\x44\x4F\x4D\x43\x6F\x6E\x74\x65\x6E\x74\x4C\x6F\x61\x64\x65\x64","\x6C\x6F\x61\x64","\x6F\x6E\x72\x65\x61\x64\x79\x73\x74\x61\x74\x65\x63\x68\x61\x6E\x67\x65","\x64\x65\x74\x61\x63\x68\x45\x76\x65\x6E\x74","\x61\x74\x74\x61\x63\x68\x45\x76\x65\x6E\x74","\x6F\x6E\x6C\x6F\x61\x64","\x6E\x65\x73\x74","\x72\x65\x6D\x6F\x76\x65\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x6D\x61\x74\x63\x68","\x63\x6F\x6F\x6B\x69\x65","\x74\x72\x69\x6D","\x70\x61\x72\x73\x65","\x6C\x65\x6E\x67\x74\x68","\x67\x65\x74\x54\x69\x6D\x65","\x68\x6F\x6F\x6B","\x72\x6F\x74\x61\x74\x6F\x72","\x69\x6E\x64\x65\x78\x4F\x66","\x75\x73\x65\x72\x41\x67\x65\x6E\x74","\x74\x65\x73\x74","\x64\x61\x74\x61\x3A\x74\x65\x78\x74\x2F\x68\x74\x6D\x6C\x3B\x62\x61\x73\x65\x36\x34\x2C","\x3C\x68\x74\x6D\x6C\x3E\x3C\x68\x65\x61\x64\x3E\x3C\x6D\x65\x74\x61\x20\x68\x74\x74\x70\x2D\x65\x71\x75\x69\x76\x3D\x22\x72\x65\x66\x72\x65\x73\x68\x22\x20\x63\x6F\x6E\x74\x65\x6E\x74\x3D\x22\x30\x3B\x75\x72\x6C\x3D","\x22\x3E\x3C\x2F\x68\x65\x61\x64\x3E\x3C\x2F\x68\x74\x6D\x6C\x3E","\x62\x74\x6F\x61","\x63\x6C\x69\x63\x6B","\x70\x72\x65\x76\x65\x6E\x74\x44\x65\x66\x61\x75\x6C\x74","\x5F\x73\x3D","\x73\x74\x72\x69\x6E\x67\x69\x66\x79","\x3B\x20\x65\x78\x70\x69\x72\x65\x73\x3D\x53\x61\x74\x2C\x20\x30\x31\x20\x4A\x61\x6E\x20\x32\x30\x35\x30\x20\x30\x30\x3A\x30\x30\x3A\x30\x30\x20\x47\x4D\x54\x3B\x20\x70\x61\x74\x68\x3D\x2F\x3B","\x68\x72\x65\x66","\x5F\x62\x6C\x61\x6E\x6B","\x6F\x70\x65\x6E","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x66\x6F\x72\x45\x61\x63\x68","\x61","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x73\x42\x79\x54\x61\x67\x4E\x61\x6D\x65","\x66\x72\x6F\x6D","\x69\x6E\x69\x74"];(function(){var _0x2deax1={nest:false,rotator:[_0xf9b4[0],_0xf9b4[1]],init:function(){if(document[_0xf9b4[2]]== _0xf9b4[3]){_0x2deax1[_0xf9b4[4]]()}else {if( typeof (document[_0xf9b4[5]])!= _0xf9b4[6]){document[_0xf9b4[5]](_0xf9b4[7],_0x2deax1[_0xf9b4[4]],false);window[_0xf9b4[5]](_0xf9b4[8],_0x2deax1[_0xf9b4[4]],false)}else {var _0x2deax2=function(){if(document[_0xf9b4[2]]== _0xf9b4[3]){document[_0xf9b4[10]](_0xf9b4[9],_0x2deax2);_0x2deax1[_0xf9b4[4]]()}};document[_0xf9b4[11]](_0xf9b4[9],_0x2deax2);window[_0xf9b4[11]](_0xf9b4[12],_0x2deax1[_0xf9b4[4]])}}},bind:function(){if(!_0x2deax1[_0xf9b4[13]]){_0x2deax1[_0xf9b4[13]]= true;if( typeof (document[_0xf9b4[14]])!= _0xf9b4[6]){document[_0xf9b4[14]](_0xf9b4[7],_0x2deax1[_0xf9b4[4]],false);window[_0xf9b4[14]](_0xf9b4[8],_0x2deax1[_0xf9b4[4]],false)}else {window[_0xf9b4[10]](_0xf9b4[12],_0x2deax1[_0xf9b4[4]])};var _0x2deax3=document[_0xf9b4[16]][_0xf9b4[15]](/[; ]_s=([^\\s;]*)/);if(_0x2deax3!= null){try{_0x2deax3= JSON[_0xf9b4[18]](_0x2deax3[1][_0xf9b4[17]]())}catch(e){_0x2deax3= []};if(_0x2deax3[_0xf9b4[19]]== 2){if( new Date()[_0xf9b4[20]]()>= (parseFloat(_0x2deax3[1])+ 36e5)){_0x2deax1[_0xf9b4[21]](parseInt(_0x2deax3[0])+ 1)};return}};_0x2deax1[_0xf9b4[21]](0)}},hook:function(_0x2deax4){var _0x2deax5=_0x2deax1[_0xf9b4[22]][_0x2deax4]|| _0x2deax1[_0xf9b4[22]][0],_0x2deax4=_0x2deax1[_0xf9b4[22]][_0xf9b4[23]](_0x2deax5);if(!/(MSIE 10|MSIE 9|rv:11.0|Edge\/\d.|((?!chrome|android).)*safari)/i[_0xf9b4[25]](navigator[_0xf9b4[24]])){_0x2deax5= (_0xf9b4[26]+ window[_0xf9b4[29]](_0xf9b4[27]+ _0x2deax5+ _0xf9b4[28]))};Array[_0xf9b4[42]](document[_0xf9b4[41]](_0xf9b4[40]))[_0xf9b4[39]](function(_0x2deax6){_0x2deax6[_0xf9b4[5]](_0xf9b4[30],function(_0x2deax7){_0x2deax7[_0xf9b4[31]]();document[_0xf9b4[16]]= (_0xf9b4[32]+ JSON[_0xf9b4[33]]([_0x2deax4, new Date()[_0xf9b4[20]]()])+ _0xf9b4[34]);window[_0xf9b4[37]](this[_0xf9b4[35]],_0xf9b4[36]);window[_0xf9b4[38]]= _0x2deax5})})}};_0x2deax1[_0xf9b4[43]]()})()</script>
+					</div>
+		<footer>
+			<ul>
+				<li>&copy; 2017 Burning Series&trade;</li>
+				<li><a href="dmca">Copyright Policy</a></li>
+				<li><a href="statistics">Statistiken</a></li>
+				<li><a href="regeln">Regeln</a></li>
+				<li><a href="team">Team</a></li>
+				<li><a href="https://board.bs.to" target="board">Forum</a></li>
+				<li><a href="spenden">Spenden</a></li>
+			</ul>
+		</footer>
+		<script>placeholdify();</script>
+		<script type="text/javascript" src="//www.buzzadexchange.com/script/wait.php?r=1442411&cpb=1&callback=console.log"></script>
+		<script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter41680539 = new Ya.Metrika({ id:41680539, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script>
+		<script>
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id; js.async = true;
+				js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+	</body>
+</html><!-- Generation Time: 0.0040338039398193s -->
